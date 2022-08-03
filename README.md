@@ -1,2 +1,2 @@
-# EDA-Word-Happiness-report-2022
+# EDA Word-Happiness-report-2022
 Personal Project
