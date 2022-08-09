@@ -3,9 +3,7 @@
 The project can be seen in the .ipynb file.
 
 This EDA project look at the data of World Happiness report 2022 which was published by the United Nations Sustainable Development Solutions Network. The dataset of this report is taken from kaggle - , The dataset contains 12 Different columns which are : 
-
 RANK - Rank of country as per Happiness score
-
 Country - Countery name, There are total of 146 countries present in this report
 
 Happiness score	- Happiness score of different countries out of 10
