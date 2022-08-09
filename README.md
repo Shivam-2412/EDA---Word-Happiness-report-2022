@@ -1,27 +1,26 @@
 # World Happiness Report 2022 - An Exploratory Data Analysis Project
 
-The project can be seen in the .ipynb file.
+**About this project**
 
-This EDA project look at the data of World Happiness report 2022 which was published by the United Nations Sustainable Development Solutions Network. The dataset of this report is taken from kaggle - , The dataset contains 12 Different columns which are : 
-RANK - Rank of country as per Happiness score
-Country - Countery name, There are total of 146 countries present in this report
+The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others
 
-Happiness score	- Happiness score of different countries out of 10
+**Purpose** - 
 
-Whisker-high - 
+1. To visualize the state of global happiness
+2. To Answer the following research question : Which country is the happiest/saddest,   
+3. Which factors have the greatest/smallest impact on nations happiness,  
+4. Find the happiest/saddest country based on: GDP,  Social Support, Healthy Life expectancy,  Freedom to make choices,  Preceptions to corruption,  Generosity
 
-Whiskers - Low - 
+This project is dividen into 3 Different stages :
 
-Dystopia (1.83) + residual - Dystopia is an imaginary country that has the world’s least-happy people. The purpose in establishing Dystopia is to have a benchmark against which all countries can be favorably compared (no country performs more poorly than Dystopia) in terms of each of the six key variables, thus allowing each sub-bar to be of positive (or zero, in six instances) width.
+**Data Cleaning** :  First of all the dataset which is taken from kaggle is inspected and cleaned. The data cleaning process includes removing duplicates, checking the datatypes, checking missing values, removing incorrect or superfluous data, as well as checking for incompleteness or inconsistencies. This is a vital step—because ultimately, the accuracy of your analysis will depend on the quality of your data.
 
-Explained by: GDP per capita - The extent to which GDP contributes to the calculation of the Happiness Score.
+**Analysis** : In this stage meaningful insights are extracted from the data using techniques and methods of data analysis
 
-Explained by: Social support - The extent to which Social support contributes to the calculation of the Happiness Score.
+**Interpreting The Results** : After the analysis, the next step is to create visualizations by selecting the most appropriate charts and graphs. This is done using tableu software the link of the visualisation is provided below
 
-Explained by: Healthy life expectancy - The extent to which Life expectancy contributes to the calculation of the Happiness Score
+Tableu Visualisation : 
 
-Explained by: Freedom to make life choices - The extent to which Freedom contributes to the calculation of the Happiness Scor
+Data Source : https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022
 
-Explained by: Generosity - The extent to which Generosity contributes to the calculation of the Happiness Score
 
-Explained by: Perceptions of corruption - The extent to which Perceptions of corruption contributes to the calculation of the Happiness Score.
